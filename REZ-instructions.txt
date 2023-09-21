@@ -1,0 +1,14 @@
+REZ-connections
+DNS-connections
+sev-connections
+wifi-connections
+
+
+Open you (c) drive or windows/what ever contains windows x86
+
+
+open-Windows defender 
+open-en us/top folder 
+drag/put-DNS-connections.all
+go back-to Windows defender
+drag/put-DNSkul.dll
