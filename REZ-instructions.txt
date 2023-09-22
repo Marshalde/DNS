@@ -4,7 +4,7 @@ sev-connections
 wifi-connections
 
 
-Open you (c) drive or windows/what ever contains windows x86
+Open you (c) drive or windows/what ever contains prorgamfiles-x86
 
 
 open-Windows defender 
